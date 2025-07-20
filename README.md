@@ -7,8 +7,8 @@
 🌱 This is my custom equivalent of an STL-style `vector` data structure in C++.  
 -> I’ve implemented it from scratch with:
 
--🌸 Custom **allocator**
--🌸 Custom **iterator**
+-🌸 Custom **allocator** __
+-🌸 Custom **iterator** __
 -🌸 Manual **memory management** (placement new, destructors)
 -🌸 Support for advanced operations like `emplace_back` using perfect forwarding
 -🌸 Clean, STL-style interface
